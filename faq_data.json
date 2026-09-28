@@ -1,0 +1,112 @@
+[
+  {
+    "category": "Account",
+    "question": "How do I create an account?",
+    "answer": "Click Sign Up, enter your name, email address, and password, then complete the registration process."
+  },
+  {
+    "category": "Account",
+    "question": "How do I reset my password?",
+    "answer": "Click Forgot Password on the login page and follow the instructions sent to your registered email address."
+  },
+  {
+    "category": "Account",
+    "question": "How can I change my password?",
+    "answer": "Open Account Settings, choose Change Password, enter your current password and your new password, and save the changes."
+  },
+  {
+    "category": "Account",
+    "question": "How do I update my profile?",
+    "answer": "Open your Profile or Account Settings, edit the information you want to change, and click Save."
+  },
+  {
+    "category": "Account",
+    "question": "Can I delete my account?",
+    "answer": "Yes. Open Account Settings and choose the account deletion option. Follow the confirmation steps carefully."
+  },
+  {
+    "category": "Orders",
+    "question": "How can I place an order?",
+    "answer": "Select the product you want, add it to your cart, review your order, and complete checkout using an available payment method."
+  },
+  {
+    "category": "Orders",
+    "question": "How can I track my order?",
+    "answer": "Open My Orders, select the relevant order, and check its latest delivery status and tracking information."
+  },
+  {
+    "category": "Orders",
+    "question": "Can I cancel my order?",
+    "answer": "You can cancel an order if it has not already entered the shipping process. Open My Orders and select Cancel Order when available."
+  },
+  {
+    "category": "Orders",
+    "question": "Can I change my delivery address?",
+    "answer": "If the order has not been shipped, you may be able to update the delivery address from the order details page."
+  },
+  {
+    "category": "Orders",
+    "question": "How long does delivery take?",
+    "answer": "Standard delivery usually takes 3 to 7 business days, depending on your location and the selected shipping option."
+  },
+  {
+    "category": "Payments",
+    "question": "What payment methods are supported?",
+    "answer": "Supported methods may include credit cards, debit cards, UPI, and other payment options shown during checkout."
+  },
+  {
+    "category": "Payments",
+    "question": "Why did my payment fail?",
+    "answer": "Check your payment details, available balance, internet connection, and bank restrictions. You can also try another supported payment method."
+  },
+  {
+    "category": "Payments",
+    "question": "Was I charged twice?",
+    "answer": "Check your bank statement and order history. If two completed charges appear for one order, contact customer support with the transaction details."
+  },
+  {
+    "category": "Payments",
+    "question": "Can I get a refund?",
+    "answer": "Eligible orders can be refunded according to the applicable refund policy. Check the order details or contact support for help."
+  },
+  {
+    "category": "Returns",
+    "question": "How do I return an item?",
+    "answer": "Open My Orders, select the eligible item, choose Return, and follow the return instructions shown on screen."
+  },
+  {
+    "category": "Returns",
+    "question": "How long does a refund take?",
+    "answer": "After a return is approved and processed, the refund may take several business days to appear depending on the payment provider."
+  },
+  {
+    "category": "Returns",
+    "question": "Can I exchange an item?",
+    "answer": "If exchange is supported for the item, open the order and select the exchange option. Availability depends on product and stock."
+  },
+  {
+    "category": "Support",
+    "question": "How do I contact customer support?",
+    "answer": "Use the Help and Support section in the application or contact the support email listed by the service."
+  },
+  {
+    "category": "Support",
+    "question": "What are the customer support hours?",
+    "answer": "Support availability depends on the service. Check the Help and Support page for the latest support hours."
+  },
+  {
+    "category": "General",
+    "question": "Is my personal information secure?",
+    "answer": "Services generally use security controls to protect account information. Review the service's privacy and security policies for specific details."
+  },
+  {
+    "category": "General",
+    "question": "How can I get help with a problem?",
+    "answer": "Start by searching the FAQ. If your issue is not covered, contact customer support and include relevant order or account details."
+  },
+  {
+    "category": "General",
+    "question": "Where can I find the terms and conditions?",
+    "answer": "The Terms and Conditions are normally available from the website or application's footer, account section, or legal information page."
+  }
+]
